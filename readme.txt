@@ -1,0 +1,1 @@
+This serves as a basic arithmetic expression tokeniser. It accepts an arithmetic expression then breaks it down into its constituent parts, and then showcases these tokens alongside their associated types.
